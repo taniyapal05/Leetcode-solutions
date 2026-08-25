@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
