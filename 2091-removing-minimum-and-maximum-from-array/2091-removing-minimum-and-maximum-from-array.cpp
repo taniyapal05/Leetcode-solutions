@@ -18,14 +18,15 @@ public:
             }
         }
 
-        int l = min(min_idx, max_idx);
-        int r = max(min_idx, max_idx);
+        int l = min(min_idx, max_idx);       //left index
+        int r = max(min_idx, max_idx);       //right index
 
         int a, b, c;
-        a = r + 1;
-        b = nums.size() - l;
-        c = (l + 1) + (nums.size() - r);
 
-        return min({a, b, c});
+        a = r + 1;                           //Distance from front
+        b = nums.size() - l;                 //Distance from end
+        c = (l + 1) + (nums.size() - r);     //Some distance from front and some is from end
+
+        return min({a, b, c});               //Minimum of all(a, b, c) distances
     }
 };
