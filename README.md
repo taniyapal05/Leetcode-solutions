@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/taniyapal05/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/taniyapal05/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
