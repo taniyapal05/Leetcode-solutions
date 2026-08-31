@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/taniyapal05/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -101,9 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/taniyapal05/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/taniyapal05/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
